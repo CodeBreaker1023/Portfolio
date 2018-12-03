@@ -415,7 +415,7 @@ header {
         text-transform: uppercase;
         font-size: 13px; }
       #colorlib-hero .hero-flex .text-inner .desc {
-        padding-right: 3em;
+        padding-right: -3em;
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .hero-flex .text-inner .desc {
@@ -662,7 +662,7 @@ header {
     content: '';
     width: 80px;
     height: 4px;
-    background: #ffdd00;
+    background: #0510a3;
     margin: 0 auto; }
     @media screen and (max-width: 768px) {
       .intro-heading:after {
@@ -1023,6 +1023,10 @@ article .desc .tag {
           color: gray;
           font-size: 12px; }
 
+.fa-google {
+background: #110169;
+color: white;}
+
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
@@ -1328,7 +1332,7 @@ input[type="text"] {
   top: -3px;
   left: 0;
   font-size: 30px;
-  color: #ffdd00; }
+  color: white; }
 
 .navbar-inner {
   background:transparent;
