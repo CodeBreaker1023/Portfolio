@@ -281,7 +281,7 @@ header {
   text-align: right;
   color: hotpink;
   margin-left: 20px;
-  /* font-family: 'Changa', sans-serif; */
+  /* font-family: 'Cursive', sans-serif; */
   font-family: 'Permanent Marker', cursive;
 }
 
@@ -289,7 +289,7 @@ header {
   text-align: right;
   color: lightblue;
   padding-left: 20px;
-  line-height: 20px;
+  line-height: 5px;
   /* font-family: 'Changa', sans-serif; */
   /* font-family: 'Permanent Marker', cursive; */
 }
@@ -1022,6 +1022,10 @@ article .desc .tag {
         .review .desc .star .reply i {
           color: gray;
           font-size: 12px; }
+
+.name-color {
+  color: hotpink;
+}
 
 .fa-google {
 background: #110169;
