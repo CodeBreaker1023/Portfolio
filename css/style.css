@@ -16,7 +16,7 @@ body {
   line-height: 1.8;
   font-size: 20px;
   font-weight: 300;
-  background: #f7f7f7;}
+  background: #f7f7f7c4;}
   body.menu-show {
     overflow: hidden;
     position: fixed;
